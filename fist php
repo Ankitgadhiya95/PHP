@@ -1,0 +1,21 @@
+<?php
+
+print("<h1> PHP</h1>");
+
+echo " <h2> Hypertext Preprocessor </h2> <br> ";
+
+$a = 20;
+$b = 10;
+
+$add = $a+$b;
+
+$mul = $a*$b;
+
+echo "<h3>a = $a</h3>";
+
+echo "<h3>b =$b</h3>";
+
+echo "<h4>Number of sun = $add</h4>";
+
+echo "<h4>Number of multiplier = $mul</h4>";
+?>
